@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "name": "local_file",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/demo/flappy_bird/index.html",
+            "runtimeExecutable": "canary"
+        },
+    ]
+}
