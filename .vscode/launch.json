@@ -5,7 +5,7 @@
             "name": "local_file",
             "type": "chrome",
             "request": "launch",
-            "file": "${workspaceFolder}/demo/flappy_bird/index.html",
+            "file": "${workspaceFolder}/demo/money_gen/index.html",
             "runtimeExecutable": "canary"
         },
     ]
